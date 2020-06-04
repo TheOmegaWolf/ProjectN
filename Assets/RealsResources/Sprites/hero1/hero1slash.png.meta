@@ -1,0 +1,1363 @@
+fileFormatVersion: 2
+guid: e3f9debf4df2c464ca88215f6e8bff88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7083400635937248379
+    second: hero1slash_0
+  - first:
+      213: 6135666746028775227
+    second: hero1slash_1
+  - first:
+      213: 2130795922540153367
+    second: hero1slash_2
+  - first:
+      213: 5823213279964660574
+    second: hero1slash_3
+  - first:
+      213: 8542476836513169613
+    second: hero1slash_4
+  - first:
+      213: 7779977071870555142
+    second: hero1slash_5
+  - first:
+      213: -838937353735536219
+    second: hero1slash_6
+  - first:
+      213: -4120812902247037900
+    second: hero1slash_7
+  - first:
+      213: 1161630829095663347
+    second: hero1slash_8
+  - first:
+      213: -7230484770437896887
+    second: hero1slash_9
+  - first:
+      213: -8736803092338028114
+    second: hero1slash_10
+  - first:
+      213: -703171477518206131
+    second: hero1slash_11
+  - first:
+      213: 654868241978522932
+    second: hero1slash_12
+  - first:
+      213: 2182926927326474040
+    second: hero1slash_13
+  - first:
+      213: -3755713723514148212
+    second: hero1slash_14
+  - first:
+      213: 6963110896451350954
+    second: hero1slash_15
+  - first:
+      213: 1588640728442510043
+    second: hero1slash_16
+  - first:
+      213: 4314032576186166219
+    second: hero1slash_17
+  - first:
+      213: 2356607263436340863
+    second: hero1slash_18
+  - first:
+      213: -605767427789736855
+    second: hero1slash_19
+  - first:
+      213: -5743313142732554926
+    second: hero1slash_20
+  - first:
+      213: -8550223087412602941
+    second: hero1slash_21
+  - first:
+      213: 1119194643226271364
+    second: hero1slash_22
+  - first:
+      213: -4497606535967826872
+    second: hero1slash_23
+  - first:
+      213: -8807202805733331475
+    second: hero1slash_24
+  - first:
+      213: 5054165085482198561
+    second: hero1slash_25
+  - first:
+      213: -1876506232212382633
+    second: hero1slash_26
+  - first:
+      213: -5033276836828281816
+    second: hero1slash_27
+  - first:
+      213: -2457998186651556298
+    second: hero1slash_28
+  - first:
+      213: 143003675290478622
+    second: hero1slash_29
+  - first:
+      213: -7272159877624267308
+    second: hero1slash_30
+  - first:
+      213: -4524681146179905258
+    second: hero1slash_31
+  - first:
+      213: 63946665667314383
+    second: hero1slash_32
+  - first:
+      213: 8168850430782042294
+    second: hero1slash_33
+  - first:
+      213: 2176616236964824245
+    second: hero1slash_34
+  - first:
+      213: 7083788712394119434
+    second: hero1slash_35
+  - first:
+      213: 8788645205347864663
+    second: hero1slash_36
+  - first:
+      213: 3717558274737118601
+    second: hero1slash_37
+  - first:
+      213: -2827704756820323189
+    second: hero1slash_38
+  - first:
+      213: 2410234268075785217
+    second: hero1slash_39
+  - first:
+      213: 3214479187052746199
+    second: hero1slash_40
+  - first:
+      213: -2993624033501079767
+    second: hero1slash_41
+  - first:
+      213: 5247387198938337027
+    second: hero1slash_42
+  - first:
+      213: 7879796975325200780
+    second: hero1slash_43
+  - first:
+      213: 1270492569413183034
+    second: hero1slash_44
+  - first:
+      213: -3356316306366536627
+    second: hero1slash_45
+  - first:
+      213: -6307769588851903282
+    second: hero1slash_46
+  - first:
+      213: 1263564969937397569
+    second: hero1slash_47
+  - first:
+      213: -8022734983553828590
+    second: hero1slash_48
+  - first:
+      213: -3021139220964746967
+    second: hero1slash_49
+  - first:
+      213: -796462136308539297
+    second: hero1slash_50
+  - first:
+      213: 5229954598662758507
+    second: hero1slash_51
+  - first:
+      213: -4105918286860166882
+    second: hero1slash_52
+  - first:
+      213: 9217042066206404420
+    second: hero1slash_53
+  - first:
+      213: 4346344627576523289
+    second: hero1slash_54
+  - first:
+      213: 5570247628282586856
+    second: hero1slash_55
+  - first:
+      213: -1044084905877086390
+    second: hero1slash_56
+  - first:
+      213: 3568486877511409399
+    second: hero1slash_57
+  - first:
+      213: -4276018768645466822
+    second: hero1slash_58
+  - first:
+      213: 6777867218076605044
+    second: hero1slash_59
+  - first:
+      213: 500345516496153636
+    second: hero1slash_60
+  - first:
+      213: -9126569015968493096
+    second: hero1slash_61
+  - first:
+      213: 4537795092177927728
+    second: hero1slash_62
+  - first:
+      213: -7584541479917194344
+    second: hero1slash_63
+  - first:
+      213: -8448938000975595794
+    second: hero1slash_64
+  - first:
+      213: -2880409534332180534
+    second: hero1slash_65
+  - first:
+      213: -2432385072860986033
+    second: hero1slash_66
+  - first:
+      213: -4019988975019109704
+    second: hero1slash_67
+  - first:
+      213: 8274470519691986132
+    second: hero1slash_68
+  - first:
+      213: -424602850820638587
+    second: hero1slash_69
+  - first:
+      213: 8986198822391385682
+    second: hero1slash_70
+  - first:
+      213: 2658673656470403275
+    second: hero1slash_71
+  - first:
+      213: 1337483223259049069
+    second: hero1slash_72
+  - first:
+      213: 4882081008940965711
+    second: hero1slash_73
+  - first:
+      213: -3803398344111079716
+    second: hero1slash_74
+  - first:
+      213: 3391968984873399597
+    second: hero1slash_75
+  - first:
+      213: -5789937282213051070
+    second: hero1slash_76
+  - first:
+      213: -6158400182494847726
+    second: hero1slash_77
+  - first:
+      213: 1434696347863107267
+    second: hero1slash_78
+  - first:
+      213: -3791053546538960619
+    second: hero1slash_79
+  - first:
+      213: 1366449223665390313
+    second: hero1slash_80
+  - first:
+      213: 2317181244082653177
+    second: hero1slash_81
+  - first:
+      213: 5684583629314382363
+    second: hero1slash_82
+  - first:
+      213: -6412148968176184672
+    second: hero1slash_83
+  - first:
+      213: 7185206415748001507
+    second: hero1slash_84
+  - first:
+      213: 5414648248733750618
+    second: hero1slash_85
+  - first:
+      213: 6333745388178695484
+    second: hero1slash_86
+  - first:
+      213: -3545889563933564996
+    second: hero1slash_87
+  - first:
+      213: -1704106226787037335
+    second: hero1slash_88
+  - first:
+      213: -712880332424145760
+    second: hero1slash_89
+  - first:
+      213: -7260486443292182247
+    second: hero1slash_90
+  - first:
+      213: 7215019755377538115
+    second: hero1slash_91
+  - first:
+      213: -6254485536398886557
+    second: hero1slash_92
+  - first:
+      213: 1072248046831148673
+    second: hero1slash_93
+  - first:
+      213: -7218037387981798308
+    second: hero1slash_94
+  - first:
+      213: 211673968712827609
+    second: hero1slash_95
+  - first:
+      213: 715295449670893754
+    second: hero1slash_96
+  - first:
+      213: -9032037058325786498
+    second: hero1slash_97
+  - first:
+      213: -534882064668456600
+    second: hero1slash_98
+  - first:
+      213: 7400428977136156985
+    second: hero1slash_99
+  - first:
+      213: 1336655664767060535
+    second: hero1slash_100
+  - first:
+      213: 1045813087389537591
+    second: hero1slash_101
+  - first:
+      213: 1735580639123110701
+    second: hero1slash_102
+  - first:
+      213: -4805697274346563192
+    second: hero1slash_103
+  - first:
+      213: -5694693357098154457
+    second: hero1slash_104
+  - first:
+      213: -350959297577593841
+    second: hero1slash_105
+  - first:
+      213: -4351340808948358211
+    second: hero1slash_106
+  - first:
+      213: 1088991851189894537
+    second: hero1slash_107
+  - first:
+      213: -3728698135965958096
+    second: hero1slash_108
+  - first:
+      213: -3362458827421069131
+    second: hero1slash_109
+  - first:
+      213: -4908275753187166473
+    second: hero1slash_110
+  - first:
+      213: 6360557620347689201
+    second: hero1slash_111
+  - first:
+      213: 5716509666115998916
+    second: hero1slash_112
+  - first:
+      213: -2247731087818948801
+    second: hero1slash_113
+  - first:
+      213: 2534819082521527761
+    second: hero1slash_114
+  - first:
+      213: 4214986574111840484
+    second: hero1slash_115
+  - first:
+      213: 6283568055134182782
+    second: hero1slash_116
+  - first:
+      213: -5515919419190484579
+    second: hero1slash_117
+  - first:
+      213: -8816259459867416322
+    second: hero1slash_118
+  - first:
+      213: 3967193514716476210
+    second: hero1slash_119
+  - first:
+      213: -2557485234396624113
+    second: hero1slash_120
+  - first:
+      213: 8372895565297972535
+    second: hero1slash_121
+  - first:
+      213: -6741734730791690338
+    second: hero1slash_122
+  - first:
+      213: -1308695887586571414
+    second: hero1slash_123
+  - first:
+      213: -7573469479666557499
+    second: hero1slash_124
+  - first:
+      213: 2255947604175760570
+    second: hero1slash_125
+  - first:
+      213: 2867896361106327203
+    second: hero1slash_126
+  - first:
+      213: 3399856651456212345
+    second: hero1slash_127
+  - first:
+      213: 2539509887261388861
+    second: hero1slash_128
+  - first:
+      213: 1436377278686856340
+    second: hero1slash_129
+  - first:
+      213: -8033192947499994446
+    second: hero1slash_130
+  - first:
+      213: -6299722268574698926
+    second: hero1slash_131
+  - first:
+      213: -2754627421580729903
+    second: hero1slash_132
+  - first:
+      213: 2887211835402950217
+    second: hero1slash_133
+  - first:
+      213: -2141863432988195454
+    second: hero1slash_134
+  - first:
+      213: -5964650749058468285
+    second: hero1slash_135
+  - first:
+      213: 7028403497157313897
+    second: hero1slash_136
+  - first:
+      213: -6672763084095159316
+    second: hero1slash_137
+  - first:
+      213: 3571620203064571807
+    second: hero1slash_138
+  - first:
+      213: -3861010269920020475
+    second: hero1slash_139
+  - first:
+      213: 7973962995120079425
+    second: hero1slash_140
+  - first:
+      213: -3135680833968599760
+    second: hero1slash_141
+  - first:
+      213: 3084403089223962906
+    second: hero1slash_142
+  - first:
+      213: -2826223299629295380
+    second: hero1slash_143
+  - first:
+      213: 5749981202164320887
+    second: hero1slash_144
+  - first:
+      213: -1493530359568727958
+    second: hero1slash_145
+  - first:
+      213: 2655195518663701792
+    second: hero1slash_146
+  - first:
+      213: 5565047122026348769
+    second: hero1slash_147
+  - first:
+      213: -8197945098273131254
+    second: hero1slash_148
+  - first:
+      213: -6950554435470287599
+    second: hero1slash_149
+  - first:
+      213: -1943667477546017617
+    second: hero1slash_150
+  - first:
+      213: 1151304045321669240
+    second: hero1slash_151
+  - first:
+      213: -2814461910915588018
+    second: hero1slash_152
+  - first:
+      213: 4057524970367381558
+    second: hero1slash_153
+  - first:
+      213: -6915317887599949236
+    second: hero1slash_154
+  - first:
+      213: -1339566501460713642
+    second: hero1slash_155
+  - first:
+      213: 6223268246023610629
+    second: hero1slash_156
+  - first:
+      213: -2899153380256289255
+    second: hero1slash_157
+  - first:
+      213: 8362854211741000661
+    second: hero1slash_158
+  - first:
+      213: -6091285807287719834
+    second: hero1slash_159
+  - first:
+      213: -9161842331579735545
+    second: hero1slash_160
+  - first:
+      213: -487314285036162297
+    second: hero1slash_161
+  - first:
+      213: -2242180192956456720
+    second: hero1slash_162
+  - first:
+      213: 1000772697120596466
+    second: hero1slash_163
+  - first:
+      213: 3295314460627994708
+    second: hero1slash_164
+  - first:
+      213: -9094118339453680395
+    second: hero1slash_165
+  - first:
+      213: 4315074520943780311
+    second: hero1slash_166
+  - first:
+      213: -8060532668515852642
+    second: hero1slash_167
+  - first:
+      213: -1893020027911610559
+    second: hero1slash_168
+  - first:
+      213: 8756561080100203055
+    second: hero1slash_169
+  - first:
+      213: -584194216635838081
+    second: hero1slash_170
+  - first:
+      213: 5777386661342522708
+    second: hero1slash_171
+  - first:
+      213: -7399567901972173739
+    second: hero1slash_172
+  - first:
+      213: -897419147462146670
+    second: hero1slash_173
+  - first:
+      213: -3966122761574568459
+    second: hero1slash_174
+  - first:
+      213: 6849830119117767811
+    second: hero1slash_175
+  - first:
+      213: -2552176425356631272
+    second: hero1slash_176
+  - first:
+      213: 1268974449844772269
+    second: hero1slash_177
+  - first:
+      213: 7549079883927346233
+    second: hero1slash_178
+  - first:
+      213: 8840159755028275841
+    second: hero1slash_179
+  - first:
+      213: -1638040392753516082
+    second: hero1slash_180
+  - first:
+      213: -5223313228477158481
+    second: hero1slash_181
+  - first:
+      213: 7628149645615174957
+    second: hero1slash_182
+  - first:
+      213: 380079854343198545
+    second: hero1slash_183
+  - first:
+      213: 7876886003389689686
+    second: hero1slash_184
+  - first:
+      213: -1468703439028677529
+    second: hero1slash_185
+  - first:
+      213: 8372816930418520928
+    second: hero1slash_186
+  - first:
+      213: -8218714712249111370
+    second: hero1slash_187
+  - first:
+      213: -3140014234818137106
+    second: hero1slash_188
+  - first:
+      213: 7012369256025238618
+    second: hero1slash_189
+  - first:
+      213: -4328231982433983706
+    second: hero1slash_190
+  - first:
+      213: 8351155662982336487
+    second: hero1slash_191
+  - first:
+      213: -2392073001677486894
+    second: hero1slash_192
+  - first:
+      213: 387089307878783088
+    second: hero1slash_193
+  - first:
+      213: 4418336186610487950
+    second: hero1slash_194
+  - first:
+      213: 2739552030467402536
+    second: hero1slash_195
+  - first:
+      213: 4300297567953028763
+    second: hero1slash_196
+  - first:
+      213: 2204050984588447632
+    second: hero1slash_197
+  - first:
+      213: 7391303908594782852
+    second: hero1slash_198
+  - first:
+      213: -3782258070294391623
+    second: hero1slash_199
+  - first:
+      213: 2971536436665574675
+    second: hero1slash_200
+  - first:
+      213: -226505129367191575
+    second: hero1slash_201
+  - first:
+      213: 7892774692689080150
+    second: hero1slash_202
+  - first:
+      213: -910155695288069798
+    second: hero1slash_203
+  - first:
+      213: -4263149138984487610
+    second: hero1slash_204
+  - first:
+      213: -6838526895625610245
+    second: hero1slash_205
+  - first:
+      213: -7499624388753672150
+    second: hero1slash_206
+  - first:
+      213: -2430845269417897123
+    second: hero1slash_207
+  - first:
+      213: 96006805555630458
+    second: hero1slash_208
+  - first:
+      213: 5241839010250115130
+    second: hero1slash_209
+  - first:
+      213: -7775695319909794614
+    second: hero1slash_210
+  - first:
+      213: 7539443899343926714
+    second: hero1slash_211
+  - first:
+      213: -3687618555602343290
+    second: hero1slash_212
+  - first:
+      213: 5314319334970137855
+    second: hero1slash_213
+  - first:
+      213: 8198705477598907568
+    second: hero1slash_214
+  - first:
+      213: 8650915056927332737
+    second: hero1slash_215
+  - first:
+      213: -7835189506020242640
+    second: hero1slash_216
+  - first:
+      213: 1288532757414858899
+    second: hero1slash_217
+  - first:
+      213: -6679812388384777018
+    second: hero1slash_218
+  - first:
+      213: 4206936541180109568
+    second: hero1slash_219
+  - first:
+      213: -7205241939908693049
+    second: hero1slash_220
+  - first:
+      213: 6730801542880979488
+    second: hero1slash_221
+  - first:
+      213: -2541722447431794205
+    second: hero1slash_222
+  - first:
+      213: 5909758522964033360
+    second: hero1slash_223
+  - first:
+      213: 3536228284650306566
+    second: hero1slash_224
+  - first:
+      213: 2188286382959711902
+    second: hero1slash_225
+  - first:
+      213: 7575919602281031276
+    second: hero1slash_226
+  - first:
+      213: -4144397716420127431
+    second: hero1slash_227
+  - first:
+      213: -5995278379884662249
+    second: hero1slash_228
+  - first:
+      213: 4760780723224760668
+    second: hero1slash_229
+  - first:
+      213: -6089833519213476295
+    second: hero1slash_230
+  - first:
+      213: -5995515199273073150
+    second: hero1slash_231
+  - first:
+      213: -2614950050815433461
+    second: hero1slash_232
+  - first:
+      213: -8985687320223315686
+    second: hero1slash_233
+  - first:
+      213: -1429444669230882440
+    second: hero1slash_234
+  - first:
+      213: 2734852602039301047
+    second: hero1slash_235
+  - first:
+      213: 1457814487281004850
+    second: hero1slash_236
+  - first:
+      213: 3851227553114617850
+    second: hero1slash_237
+  - first:
+      213: -5583548218426807041
+    second: hero1slash_238
+  - first:
+      213: 7024428060802369489
+    second: hero1slash_239
+  - first:
+      213: -8334455243290613894
+    second: hero1slash_240
+  - first:
+      213: 1960506506796384818
+    second: hero1slash_241
+  - first:
+      213: -4153921343084745943
+    second: hero1slash_242
+  - first:
+      213: -103343108818371515
+    second: hero1slash_243
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hero1slash_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 636
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d0d2595b4d4260800000000000000
+      internalID: 7083400635937248379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 636
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d839b564462550800000000000000
+      internalID: 6135666746028775227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 636
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a4bd32a9b129d10800000000000000
+      internalID: 2130795922540153367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 636
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5381ab10a530d050800000000000000
+      internalID: 5823213279964660574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 636
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ce5e3c69fc8670800000000000000
+      internalID: 8542476836513169613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 636
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60437814de708fb60800000000000000
+      internalID: 7779977071870555142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a189c1fbee7b54f0800000000000000
+      internalID: -838937353735536219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43408b79f7eefc6c0800000000000000
+      internalID: -4120812902247037900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b360a511fe1010800000000000000
+      internalID: 1161630829095663347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456d28f86828ab90800000000000000
+      internalID: -7230484770437896887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 444
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b375a4445dd36f0800000000000000
+      internalID: -703171477518206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 444
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fede989705b4e10800000000000000
+      internalID: 2182926927326474040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a21ef544601ebc0800000000000000
+      internalID: -3755713723514148212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa172aad770f1a060800000000000000
+      internalID: 6963110896451350954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9886535cfb0610800000000000000
+      internalID: 1588640728442510043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2a0575c58edb30800000000000000
+      internalID: 4314032576186166219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 248
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7a3cf1d954b020800000000000000
+      internalID: 2356607263436340863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 252
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643712ebb1e797f0800000000000000
+      internalID: -605767427789736855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25df7954027ab40b0800000000000000
+      internalID: -5743313142732554926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 60
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c79d6c2761875980800000000000000
+      internalID: -8550223087412602941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9508299d288f00800000000000000
+      internalID: 1119194643226271364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 60
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c99245faa4591c0800000000000000
+      internalID: -4497606535967826872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 60
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede073f5b786c580800000000000000
+      internalID: -8807202805733331475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero1slash_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 60
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9c22268f45f5e0800000000000000
+      internalID: -1876506232212382633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
